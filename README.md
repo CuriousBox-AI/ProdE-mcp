@@ -1,13 +1,14 @@
 # ProdE MCP Server
 
-A powerful Model Context Protocol (MCP) server that provides contextual codebase understanding across multiple codebases and AI assistance for your development workflow.
+**[ProdE](https://prode.ai)** |**[Documentation](https://docs.prode.ai)** | **Free access to all ProdE features for first month**
+
+*ProdE is your 24x7 available production engineer, a multi-repository AI coding assistant that understands your entire codebase ecosystem, not just individual files.*
 
 ## What is ProdE MCP Server?
 
 ProdE MCP Server bridges the gap between your codebase and AI coding assistants by providing deep contextual understanding of your repositories. Instead of working with generic code suggestions, get AI responses that understand your specific project structure, patterns, and history across multiple codebases.
-
+ 
 ## Key Features
-
 
 - **Cross-Repository Insights**: Query across multiple codebases simultaneously
 - **Improved AI Accuracy**: AI understands your project structure and patterns
