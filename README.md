@@ -216,3 +216,6 @@ This project is licensed under the terms specified by ProdE. Please refer to the
 ---
 
 **Ready to enhance your coding experience?** Get started by [signing up for ProdE](https://prode.ai) and connecting your first repository to the knowledge layer.
+
+---
+[![MCP Badge](https://lobehub.com/badge/mcp/curiousbox-ai-prode-mcp)](https://lobehub.com/mcp/curiousbox-ai-prode-mcp)
