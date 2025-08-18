@@ -211,7 +211,7 @@ Add to MCP configuration in OpenHands settings:
 
 ## License
 
-This project is licensed under the terms specified by ProdE. Please refer to the official documentation for license details.
+This project is licensed under the terms specified by ProdE. Please refer to [License](./LICENSE)
 
 ---
 
