@@ -2,7 +2,7 @@
 
 **[ProdE](https://prode.ai)** |**[Documentation](https://docs.prode.ai)** | **Free access to all ProdE features for first month**
 
-*ProdE is your 24x7 available production engineer, a multi-repository AI coding assistant that understands your entire codebase ecosystem, not just individual files.*
+*ProdE is your 24x7 available production engineer, a knowledge layer that understands your entire codebase ecosystem, not just individual files.*
 
 ## What is ProdE MCP Server?
 
@@ -219,4 +219,5 @@ This project is licensed under the terms specified by ProdE. Please refer to [Li
 
 ---
 [![MCP Badge](https://lobehub.com/badge/mcp/curiousbox-ai-prode-mcp)](https://lobehub.com/mcp/curiousbox-ai-prode-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@CuriousBox-AI/prode-mcp)](https://smithery.ai/server/@CuriousBox-AI/prode-mcp)
