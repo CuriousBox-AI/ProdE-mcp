@@ -2,7 +2,7 @@
 
 **[ProdE](https://prode.ai)** |**[Documentation](https://docs.prode.ai)** | **Free access to all ProdE features for first month**
 
-*ProdE is your 24x7 available production engineer, a multi-repository AI coding assistant that understands your entire codebase ecosystem, not just individual files.*
+*‘ProdE is the context layer which makes your AI coding agents such as Cursor, Copilot, Windsurf understand multi repo and microservice codebases to eliminate hallucinations and reduce errors.’*
 
 ## What is ProdE MCP Server?
 
