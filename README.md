@@ -219,4 +219,5 @@ This project is licensed under the terms specified by ProdE. Please refer to [Li
 
 ---
 [![MCP Badge](https://lobehub.com/badge/mcp/curiousbox-ai-prode-mcp)](https://lobehub.com/mcp/curiousbox-ai-prode-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@CuriousBox-AI/prode-mcp)](https://smithery.ai/server/@CuriousBox-AI/prode-mcp)
